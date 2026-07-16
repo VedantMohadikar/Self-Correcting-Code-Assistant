@@ -309,6 +309,6 @@ Streamlit re-runs the whole script on every click. Without session_state, clicki
 
 **Vedant Mohadikar** 
 
-- LinkedIn: (www.linkedin.com/in/vedant-mohadikar-4029a8252)
+- LinkedIn: www.linkedin.com/in/vedant-mohadikar-4029a8252
 - GitHub: [github.com/VedantMohadikar](https://github.com/VedantMohadikar)
 - Email: mvedant1607@gmail.com
