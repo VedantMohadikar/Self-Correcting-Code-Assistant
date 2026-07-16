@@ -1,4 +1,4 @@
-# Self-Correcting code assistant — Self-Correcting Code Agent
+# Self-Correcting-Code-Assistant
 
 Give it any task in plain English. It writes the code, generates its own test cases, executes and validates everything, and self-corrects until all tests pass — no manual testing required.
 
@@ -309,6 +309,6 @@ Streamlit re-runs the whole script on every click. Without session_state, clicki
 
 **Vedant Mohadikar** 
 
-- LinkedIn: [linkedin.com/in/vedant-mohadikar-4029a8252](www.linkedin.com/in/vedant-mohadikar-4029a8252)
+- LinkedIn: (www.linkedin.com/in/vedant-mohadikar-4029a8252)
 - GitHub: [github.com/VedantMohadikar](https://github.com/VedantMohadikar)
 - Email: mvedant1607@gmail.com
